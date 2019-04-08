@@ -19,7 +19,8 @@
       "radix": 2,
       "semi": 2,
       "space-infix-ops": 2,
-      "strict": 0
+      "strict": 0,
+      "no-unused-vars": ["error", { "vars": "all", "args": "after-used", "ignoreRestSiblings": false }]
     },
     "globals": {
       "AnalysisView": true,
