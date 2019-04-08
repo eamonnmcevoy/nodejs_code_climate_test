@@ -6,6 +6,7 @@ var a = 1;
 let b = 1;
 const c = 1;
 abc = 123;
+let ding = 'dong';
 
 function unusedFunc() {
     var unused_local = 1;
